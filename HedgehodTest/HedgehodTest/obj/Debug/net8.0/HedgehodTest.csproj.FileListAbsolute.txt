@@ -1,0 +1,14 @@
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\obj\Debug\net8.0\HedgehodTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\obj\Debug\net8.0\HedgehodTest.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\obj\Debug\net8.0\HedgehodTest.AssemblyInfo.cs
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\obj\Debug\net8.0\HedgehodTest.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\bin\Debug\net8.0\HedgehodTest.exe
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\bin\Debug\net8.0\HedgehodTest.deps.json
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\bin\Debug\net8.0\HedgehodTest.runtimeconfig.json
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\bin\Debug\net8.0\HedgehodTest.dll
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\bin\Debug\net8.0\HedgehodTest.pdb
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\obj\Debug\net8.0\HedgehodTest.dll
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\obj\Debug\net8.0\refint\HedgehodTest.dll
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\obj\Debug\net8.0\HedgehodTest.pdb
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\obj\Debug\net8.0\HedgehodTest.genruntimeconfig.cache
+C:\Users\sasha\source\repos\HedgehodTest\HedgehodTest\obj\Debug\net8.0\ref\HedgehodTest.dll
