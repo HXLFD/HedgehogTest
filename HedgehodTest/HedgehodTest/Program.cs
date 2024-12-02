@@ -8,7 +8,7 @@
         int other2 = (desiredcolor + 2) % 3;
 
         // Якщо всі вже цільового кольору
-        if (hedgehogs[other1] == 0 && hedgehogs[other2] == 0) return 0;
+        if (hedgehogs[other1] == 0 && hedgehogs[other2] == 0) return -1;
 
         // Якщо одна з інших груп нульова — неможливо
         if (hedgehogs[other1] == 0 || hedgehogs[other2] == 0) return -1;
